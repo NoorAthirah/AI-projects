@@ -1,3 +1,1 @@
-"# ArtificialIntelligenceProjects" 
-"# ArtificialIntelligenceProjects" 
-"# ArtificialIntelligenceProjects" 
+"# AI-projects" 
