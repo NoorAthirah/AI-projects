@@ -1,0 +1,9 @@
+Parameter Tuning 
+
+GridSearchCV to find the optimal number of neighbors and weighting scheme through cross-validation. The final KNN model is built in a pipeline that includes data scaling, and it prints the best accuracy and the corresponding hyperparameters.
+
+Why parameter tuning is important:
+Machine learning models often have hyperparameters that control how the model learns. Choosing the right values can significantly improve model performance.
+GridSearchCV helps automate this search, making sure you find the optimal settings without manually testing each combination.
+
+
