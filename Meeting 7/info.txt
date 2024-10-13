@@ -1,6 +1,0 @@
-Top-left corner: (0, 0)
-Top-right corner: (width, 0)
-Bottom-left corner: (0, height)
-Bottom-right corner: (width, height)
-
-
